@@ -1,0 +1,2 @@
+F:\VS项目\String\Debug\String.exe
+F:\VS项目\String\Debug\String.pdb
